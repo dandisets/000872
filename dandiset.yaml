@@ -44,12 +44,12 @@ contributor:
   schemaKey: Person
 dateCreated: '2024-01-19T19:13:04.392274+00:00'
 description: 'This dataset contains fluorescent images of CSF brain influx, AQP4 immunohistochemistry,
-  and DWI MRI data included in the project “Glymphatic fluid transport is suppressed
-  by the AQP4 inhibitor AER-271”
+  and DWI MRI data included in the GLIA article: “Glymphatic fluid transport is suppressed
+  by the aquaporin-4 inhibitor AER-271”  https://doi.org/10.1002/glia.24515
 
 
   Data upload currently in construction. For temporary access please find the data
-  here:'
+  here: https://rochester.box.com/s/rn4rntdg6wug966g03o7gyoxqa1xziot '
 ethicsApproval: []
 id: DANDI:000872/draft
 identifier: DANDI:000872
