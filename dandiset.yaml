@@ -10,9 +10,10 @@ assetsSummary:
   numberOfBytes: 0
   numberOfFiles: 0
   schemaKey: AssetsSummary
-citation: Giannetto, Michael J.; Gomolka, Ryszard S. (2024) Glymphatic Fluid Transport
-  Is Suppressed by the AQP4 Inhibitor AER-271 (Version draft) [Data set]. DANDI archive.
-  https://dandiarchive.org/dandiset/000872/draft
+citation: Giannetto, Michael J.; Gomolka, Ryszard S.; Gahn-Martinez, Daniel ; Newbold,
+  Evan J.; Bork, Peter A. R.; Chang, Ethan; Thompson, Trevor; Mori, Yuki; Nedergaard,
+  Maiken (2024) Glymphatic Fluid Transport Is Suppressed by the AQP4 Inhibitor AER-271
+  (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000872/draft
 contributor:
 - affiliation: []
   email: yuezhao@rochester.edu
@@ -30,7 +31,6 @@ contributor:
   name: Giannetto, Michael J.
   roleName:
   - dcite:Author
-  - dcite:ContactPerson
   schemaKey: Person
 - affiliation:
   - identifier: https://ror.org/035b05819
@@ -41,6 +41,83 @@ contributor:
   name: Gomolka, Ryszard S.
   roleName:
   - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/00trqv719
+    name: University of Rochester Medical Center
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: 'Gahn-Martinez, Daniel '
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/00trqv719
+    name: University of Rochester Medical Center
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Newbold, Evan J.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/04qtj9h94
+    name: Technical University of Denmark
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Bork, Peter A. R.
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/00trqv719
+    name: University of Rochester Medical Center
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Chang, Ethan
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/04y4jzv33
+    name: Aeromics (United States)
+    schemaKey: Affiliation
+  includeInCitation: false
+  name: Gresser, Michael
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/04y4jzv33
+    name: Aeromics (United States)
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Thompson, Trevor
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/035b05819
+    name: University of Copenhagen
+    schemaKey: Affiliation
+  includeInCitation: true
+  name: Mori, Yuki
+  roleName:
+  - dcite:Author
+  schemaKey: Person
+- affiliation:
+  - identifier: https://ror.org/00trqv719
+    name: University of Rochester Medical Center
+    schemaKey: Affiliation
+  - identifier: https://ror.org/035b05819
+    name: University of Copenhagen
+    schemaKey: Affiliation
+  email: Maiken_Nedergaard@urmc.rochester.edu
+  includeInCitation: true
+  name: Nedergaard, Maiken
+  roleName:
+  - dcite:Author
+  - dcite:ContactPerson
   schemaKey: Person
 dateCreated: '2024-01-19T19:13:04.392274+00:00'
 description: 'This dataset contains fluorescent images of CSF brain influx, AQP4 immunohistochemistry,
